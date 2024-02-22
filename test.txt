@@ -1,0 +1,4 @@
+Hello world!
+
+注意要先用git add   git commit提交到本地仓库
+然后才能提交到远程仓库
